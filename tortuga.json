@@ -115,6 +115,12 @@
          "id":13,
          "name":"exitPub",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"pub.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":45,
@@ -146,6 +152,11 @@
          "name":"startForest",
          "opacity":0,
          "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"labyrinth.json"
+                }, 
                 {
                  "name":"startLayer",
                  "type":"bool",
