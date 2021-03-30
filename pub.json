@@ -352,7 +352,7 @@
          "height":29,
          "id":47,
          "name":"startBox",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"startLayer",
