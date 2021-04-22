@@ -11,8 +11,8 @@ import string
 import solve_cube
 
 ROOMS = 128
-MIN_PATH_LENGTH = 40
-PATH_LENGTH = 50
+MIN_PATH_LENGTH =6
+PATH_LENGTH = 10
 OUT_DIR = "cube/"
 TEMPLATES = ["cube_assets/quadrat_t1.json",
              "cube_assets/quadrat_t2.json",
@@ -55,7 +55,7 @@ def generate_cubes(random_uuids, path_uuid_list):
         # tile post processing
         with open(output, 'r') as file:
             if x < PATH_LENGTH:
-                if x == 49:
+                if x == PATH_LENGTH -1:
                     # dirty hack
                     path_uuid_list.append("Dirty hack due to call by reference")
                 room = generate_exits(json.load(file), random_uuids, path=True, path_exit_uuid=path_uuid_list[0])
