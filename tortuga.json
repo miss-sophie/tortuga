@@ -155,7 +155,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"cube\/0.json"
+                 "value":"pub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -173,7 +173,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"pub.json"
+                 "value":"cube\/0.json"
                 }],
          "type":"tilelayer",
          "visible":true,
