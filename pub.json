@@ -225,11 +225,6 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Zum Affen - Tisch 0"
@@ -252,11 +247,6 @@
          "name":"jitsi 1",
          "opacity":0,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -281,11 +271,6 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Zum Affen - Tisch 2"
@@ -308,11 +293,6 @@
          "name":"jitsi 3",
          "opacity":0,
          "properties":[
-                {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
