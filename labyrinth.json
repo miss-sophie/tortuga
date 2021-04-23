@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"tortuga.json#startForest"
+                 "value":"tortuga.json"
                 }],
          "type":"tilelayer",
          "visible":true,
