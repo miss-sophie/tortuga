@@ -10,7 +10,7 @@ import os
 import string
 import solve_cube
 
-ROOMS = 128
+ROOMS = 32
 MIN_PATH_LENGTH =6
 PATH_LENGTH = 10
 OUT_DIR = "cube/"
